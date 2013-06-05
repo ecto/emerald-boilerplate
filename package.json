@@ -5,7 +5,7 @@
   "repository": {
     "type": "git",
     "url": "git://github.com/ecto/emerald-boilerplate.git"
-  }
+  },
   "author": "ecto",
   "license": "BSD",
   "dependencies": {
