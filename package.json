@@ -1,0 +1,14 @@
+{
+  "name": "emerald-boilerplate",
+  "version": "0.0.0",
+  "description": "example application using emerald framework",
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/ecto/emerald-boilerplate.git"
+  }
+  "author": "ecto",
+  "license": "BSD",
+  "dependencies": {
+    "emerald-core": "*"
+  }
+}
